@@ -1,0 +1,21 @@
+Token Swap - contract for swap any token to our token 1:1. 
+It was used in Jediway and Trustunion/Sundao
+https://trustunion.io/
+https://jediway.gtfb.tech - link may not be valid 
+
+ZeroWeb_controller - A contract for registering a project, contributing money to the project, and after payment to users on behalf of the projects, if they complete the task. Implemented for the zeroweb project 
+https://zeroweb.space/
+
+router_contract - contract for sending multitransactions. You can send some money for lots addresses by one transaction. This has been used on the following projects: Trustunion, egoizm
+https://trustunion.io/
+https://egoizm.life/
+
+distributorContract - The contract accepts money from two players, and then the owner, as an independent person, pays them to the winner
+https://jediway.gtfb.tech - link may not be valid 
+
+Training contracts
+
+nft_staking - for stake NFT.
+nft_Club_contract - contract to join in club by NFT
+
+
